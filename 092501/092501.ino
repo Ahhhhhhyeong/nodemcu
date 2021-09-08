@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "MTPC4-NEW(2G)";
-const char* password = "10821082";
+const char* ssid = "";
+const char* password = "";
  
 int ledPin = D5; //14
 WiFiServer server(80);
